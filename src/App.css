@@ -1,0 +1,106 @@
+.App {
+  text-align: center;
+}
+.he{
+  display: flex; 
+  height: 50px;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+  background-image: radial-gradient(circle, #120537, #00366d, #006592, #0094a0, #0bc29a);
+  align-items: center;
+}
+.cl{
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+  align-items: center;
+}
+.cm{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+padding: 10px;
+color: #FFF;
+font-size: 24px;
+}
+.sc{
+height:160; 
+display: flex; 
+flex-direction: row;
+justify-content: space-between;
+color: #FFF;
+margin:10px;
+margin-top: 35px;
+margin-bottom: 35px;
+overflow-x: scroll;
+font-size: 20px;
+}
+.Re{
+display: flex; 
+flex-direction: row;
+justify-content: space-between;
+padding: 10px;
+color: #FFF;
+padding: left 40px;;
+padding: right 100px;;
+}
+.dm{
+margin:10px;
+background-color: cadetblue;
+font-size: 20px;
+border-radius: 10px;
+
+}
+.Mg{
+display: flex; 
+flex-direction: row;
+justify-content: space-between;
+text-align: left;
+padding: 10px;
+color: #FFF;
+ }
+.fa {
+display: flex; 
+padding: 20px;
+font-size: 30px;
+width: 50px;
+text-align: center;
+margin: 5px 2px;
+flex-direction: row;
+justify-content: space-between;
+background-color: #3B5998;
+}
+.fb {
+background: #3B5998;
+color: white;
+}
+.ins {
+background: #125688;
+color: white;
+}
+.Wh{
+background: #45bbff;
+color: white;
+}
+.gl{
+  background: #120537 ;
+  color: #FFF;
+}
+.B {
+  background-color: white ;
+border-style: solid;
+border-color: white;
+border-radius: 10px;
+}
+.up{
+  height:160; 
+  display: flex; 
+  flex-direction: row;
+  justify-content: space-between;
+  color: #FFF;
+  margin:10px;
+  text-align: left;
+  overflow-x: scroll;
+  font-size: 20px;
+  }
